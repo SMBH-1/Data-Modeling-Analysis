@@ -5,8 +5,8 @@ abstract is a social media and social network application for researchers to org
 
 
 The application utilizes ReactJS (frontend library) and Django (backend framework) and the following APIs:
-* LinkedIn API
 * Google Cloud API (?)
 * Google Drive API (?)
 * TensorFlow API (?)
+Keras API
 
